@@ -1,3 +1,3 @@
 <?php
 
-define('BASEURL', 'http://localhost/MVC-php-by-WPU/public');
+define('BASEURL', 'http://localhost:8080/MVC-php-by-WPU/public');
